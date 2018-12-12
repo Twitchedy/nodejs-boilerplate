@@ -1,0 +1,15 @@
+{
+    "extends": [
+        "standard",
+        "plugin:vue/essential"
+    ],
+    "rules": {
+        "indent": ["error", 4]
+    },
+    "parserOptions": {
+        "ecmaVersion": 2017,
+        "ecmaFeatures": {
+            "experimentalObjectRestSpread": true
+        }
+    }
+}

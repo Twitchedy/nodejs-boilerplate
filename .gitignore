@@ -1,0 +1,10 @@
+npm-debug.log
+node_modules/
+public/app.js
+public/app.js.map
+public/app.css
+public/app.css.map
+*.txt
+*.sublime-project
+*.sublime-workspace
+mix-manifest.json

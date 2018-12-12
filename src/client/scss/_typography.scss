@@ -1,0 +1,21 @@
+body, html {
+    overflow-x: hidden;
+    width: 100%;
+    font-size: 18px;
+    font-family: 'Helvetica', sans-serif;
+    color: $color-text;
+    font-weight: normal;
+    background-color: $color-grey-1;
+}
+
+.hs-text-upper {
+    text-transform: uppercase;
+}
+
+.hs-text-bold {
+    font-weight: bold;
+}
+
+.hs-text-spaced {
+    letter-spacing: 0.1rem;
+}
