@@ -4,6 +4,11 @@ You can use this to make silly little apps!
 Uses NodeJS, and VueJS.
 
 ## Local Install
+### Install Dependencies
+```sh
+yarn
+```
+
 ### Build Frontend Assets
 ```sh
 yarn build # Or 'yarn watch' for development.
