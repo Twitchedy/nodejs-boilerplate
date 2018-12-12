@@ -18,7 +18,6 @@ yarn serve # Or 'yarn serve-watch' for development.
 The app can be configured for multiple environments by running it with the ENV environment variable:
 
 ```sh
-$ ENV=local yarn serve
-$ ENV=uat yarn serve
+$ ENV=dev yarn serve
 $ ENV=prod yarn serve
 ```
